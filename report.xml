@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="pytest" errors="0" failures="3" skipped="0" tests="14" time="0.078" timestamp="2025-02-20T20:09:28.117841+01:00" hostname="MacBookPro.fritz.box">
+    <testcase classname="test.test_classes" name="test_inheritance" time="0.002"/>
+    <testcase classname="test.test_classes" name="test_properties" time="0.001"/>
+    <testcase classname="test.test_classes" name="test_horse" time="0.001"/>
+    <testcase classname="test.test_data" name="test_add_item" time="0.000"/>
+    <testcase classname="test.test_data" name="test_set_item" time="0.000"/>
+    <testcase classname="test.test_data" name="test_transform_items" time="0.001"/>
+    <testcase classname="test.test_data" name="test_string_formatting" time="0.001"/>
+    <testcase classname="test.test_data" name="test_get_evaluation" time="0.000"/>
+    <testcase classname="test.test_data" name="test_get_evaluation_2" time="0.001">
+      <failure message="AssertionError: assert 'Normal' == 'Large'&#10;  &#10;  - Large&#10;  + Normal">test/test_data.py:104: in test_get_evaluation_2
+    assert demo_1.get_evaluation(102) == "Large"
+E   AssertionError: assert 'Normal' == 'Large'
+E     
+E     - Large
+E     + Normal
+        demo_1     = &lt;src.section_data.DataStructureDemo object at 0x101ec25d0&gt;
+        demo_2     = &lt;src.section_data.DataStructureDemo object at 0x101ec2610&gt;</failure>
+    </testcase>
+    <testcase classname="test.test_data" name="test_file_operations" time="0.004"/>
+    <testcase classname="test.test_data" name="test_file_operation_local" time="0.001">
+      <failure message="AssertionError: assert not True&#10; +  where True = exists()&#10; +    where exists = PosixPath('test.json').exists">test/test_data.py:146: in test_file_operation_local
+    assert not filepath.exists()
+E   AssertionError: assert not True
+E    +  where True = exists()
+E    +    where exists = PosixPath('test.json').exists
+        demo       = &lt;src.section_data.DataStructureDemo object at 0x101edb750&gt;
+        filepath   = PosixPath('test.json')
+        testdata   = {'testkey': 'testvalue'}</failure>
+    </testcase>
+    <testcase classname="test.test_dataclasses" name="test_dataclass" time="0.001">
+      <failure message="dataclasses.FrozenInstanceError: cannot assign to field 'age'">test/test_dataclasses.py:18: in test_dataclass
+    person.age = 2 #Explain: Error due to frozen "Person" class.
+        person     = Person(name='John', age=30, hobbies=['reading', 'gaming', 'writing'], nickname=None)
+&lt;string&gt;:4: in __setattr__
+    ???
+E   dataclasses.FrozenInstanceError: cannot assign to field 'age'
+        FrozenInstanceError = &lt;class 'dataclasses.FrozenInstanceError'&gt;
+        cls        = &lt;class 'src.section_dataclasses.Person'&gt;
+        name       = 'age'
+        self       = Person(name='John', age=30, hobbies=['reading', 'gaming', 'writing'], nickname=None)
+        value      = 2</failure>
+    </testcase>
+    <testcase classname="test.test_enums" name="test_sample" time="0.001"/>
+    <testcase classname="test.test_enums" name="test_labels" time="0.001"/>
+  </testsuite>
+</testsuites>

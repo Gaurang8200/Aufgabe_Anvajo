@@ -1,0 +1,1226 @@
+2025-02-20 15:20:28,890 - root - INFO - Logger initialized.
+2025-02-20 15:20:28,890 - src - INFO - App logging ready.
+2025-02-20 15:30:23,972 - root - INFO - Logger initialized.
+2025-02-20 15:30:23,973 - src - INFO - App logging ready.
+2025-02-20 15:30:23,983 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:30:23,983 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:30:23,983 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:30:23,984 - src.section_classes - INFO - Making Dog sound
+2025-02-20 15:30:23,984 - src.section_classes - INFO - Dog running
+2025-02-20 15:30:24,014 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:30:24,017 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:39:02,366 - root - INFO - Logger initialized.
+2025-02-20 15:39:02,367 - src - INFO - App logging ready.
+2025-02-20 15:39:26,941 - root - INFO - Logger initialized.
+2025-02-20 15:39:26,942 - src - INFO - App logging ready.
+2025-02-20 15:40:03,193 - root - INFO - Logger initialized.
+2025-02-20 15:40:03,193 - src - INFO - App logging ready.
+2025-02-20 15:40:03,203 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:40:03,203 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:40:03,203 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:40:03,203 - src.section_classes - INFO - Making Dog sound
+2025-02-20 15:40:03,204 - src.section_classes - INFO - Dog running
+2025-02-20 15:40:03,204 - src.section_classes - INFO - Dog running
+2025-02-20 15:40:03,204 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:40:03,229 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:40:03,232 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:45:26,860 - root - INFO - Logger initialized.
+2025-02-20 15:45:26,861 - src - INFO - App logging ready.
+2025-02-20 15:45:26,871 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:45:26,871 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:45:26,871 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:45:26,871 - src.section_classes - INFO - Making Dog sound
+2025-02-20 15:45:26,871 - src.section_classes - INFO - Dog running
+2025-02-20 15:45:26,898 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:45:26,902 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:55:04,007 - root - INFO - Logger initialized.
+2025-02-20 15:55:04,007 - src - INFO - App logging ready.
+2025-02-20 15:55:04,018 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Making Dog sound
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Dog running
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Dog running
+2025-02-20 15:55:04,019 - src.section_classes - INFO - Making Animal sound
+2025-02-20 15:55:04,049 - src.section_classes - INFO - Initialized Animal
+2025-02-20 15:55:04,050 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:00:08,873 - root - INFO - Logger initialized.
+2025-02-20 16:00:08,874 - src - INFO - App logging ready.
+2025-02-20 16:00:08,886 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:00:08,886 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:00:08,886 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:00:08,886 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:00:08,887 - src.section_classes - INFO - Dog running
+2025-02-20 16:00:08,887 - src.section_classes - INFO - Dog running
+2025-02-20 16:00:08,887 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:00:08,887 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:00:08,888 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:00:08,889 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:31:53,038 - root - INFO - Logger initialized.
+2025-02-20 16:31:53,038 - src - INFO - App logging ready.
+2025-02-20 16:31:53,061 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Dog running
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Dog running
+2025-02-20 16:31:53,062 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:31:53,063 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:31:53,064 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:31:53,065 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:34:55,357 - root - INFO - Logger initialized.
+2025-02-20 16:34:55,358 - src - INFO - App logging ready.
+2025-02-20 16:34:55,369 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:34:55,369 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:34:55,369 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:34:55,370 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:34:55,370 - src.section_classes - INFO - Dog running
+2025-02-20 16:34:55,370 - src.section_classes - INFO - Dog running
+2025-02-20 16:34:55,370 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:34:55,370 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:34:55,371 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:34:55,372 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:36:19,388 - root - INFO - Logger initialized.
+2025-02-20 16:36:19,388 - src - INFO - App logging ready.
+2025-02-20 16:36:19,409 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:36:19,409 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:36:19,409 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:36:19,409 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:36:19,410 - src.section_classes - INFO - Dog running
+2025-02-20 16:36:19,410 - src.section_classes - INFO - Dog running
+2025-02-20 16:36:19,410 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:36:19,410 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:36:19,411 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:36:19,412 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:37:03,005 - root - INFO - Logger initialized.
+2025-02-20 16:37:03,005 - src - INFO - App logging ready.
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Dog running
+2025-02-20 16:37:03,026 - src.section_classes - INFO - Dog running
+2025-02-20 16:37:03,027 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:37:03,027 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:37:03,028 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:37:03,029 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:10,996 - root - INFO - Logger initialized.
+2025-02-20 16:40:10,996 - src - INFO - App logging ready.
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Dog running
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Dog running
+2025-02-20 16:40:11,018 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:40:11,019 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:40:11,020 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:11,021 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:57,936 - root - INFO - Logger initialized.
+2025-02-20 16:40:57,936 - src - INFO - App logging ready.
+2025-02-20 16:40:57,957 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Dog running
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Dog running
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:40:57,958 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:40:57,960 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:40:57,961 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:42:58,832 - root - INFO - Logger initialized.
+2025-02-20 16:42:58,833 - src - INFO - App logging ready.
+2025-02-20 16:42:58,853 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Dog running
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Dog running
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:42:58,854 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:42:58,856 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:42:58,856 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:44:06,542 - root - INFO - Logger initialized.
+2025-02-20 16:44:06,542 - src - INFO - App logging ready.
+2025-02-20 16:44:06,554 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:44:06,554 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:44:06,554 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:44:06,554 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:44:06,555 - src.section_classes - INFO - Dog running
+2025-02-20 16:44:06,555 - src.section_classes - INFO - Dog running
+2025-02-20 16:44:06,555 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:44:06,555 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:44:06,556 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:44:06,557 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:54:42,634 - root - INFO - Logger initialized.
+2025-02-20 16:54:42,634 - src - INFO - App logging ready.
+2025-02-20 16:54:42,657 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:54:42,657 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:54:42,657 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:54:42,657 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:54:42,658 - src.section_classes - INFO - Dog running
+2025-02-20 16:54:42,658 - src.section_classes - INFO - Dog running
+2025-02-20 16:54:42,658 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:54:42,658 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:54:42,659 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:54:42,660 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:56:25,062 - root - INFO - Logger initialized.
+2025-02-20 16:56:25,062 - src - INFO - App logging ready.
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Making Animal sound
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Dog running
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Dog running
+2025-02-20 16:56:25,084 - src.section_classes - INFO - Dog making sound
+2025-02-20 16:56:25,085 - src.section_classes - INFO - Making Dog sound
+2025-02-20 16:56:25,086 - src.section_classes - INFO - Initialized Animal
+2025-02-20 16:56:25,087 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:00:32,535 - root - INFO - Logger initialized.
+2025-02-20 17:00:32,535 - src - INFO - App logging ready.
+2025-02-20 17:00:32,543 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Dog running
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Dog running
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:00:32,544 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:00:32,546 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:00:32,547 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:06:48,072 - root - INFO - Logger initialized.
+2025-02-20 17:06:48,073 - src - INFO - App logging ready.
+2025-02-20 17:06:48,094 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:06:48,094 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:06:48,094 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:06:48,094 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:06:48,095 - src.section_classes - INFO - Dog running
+2025-02-20 17:06:48,095 - src.section_classes - INFO - Dog running
+2025-02-20 17:06:48,095 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:06:48,095 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:06:48,096 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:06:48,097 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:23:33,516 - root - INFO - Logger initialized.
+2025-02-20 17:23:33,516 - src - INFO - App logging ready.
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Dog running
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Dog running
+2025-02-20 17:23:33,538 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:23:33,539 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:23:33,540 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:23:33,541 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:38:23,102 - root - INFO - Logger initialized.
+2025-02-20 17:38:23,102 - src - INFO - App logging ready.
+2025-02-20 17:39:40,093 - root - INFO - Logger initialized.
+2025-02-20 17:39:40,094 - src - INFO - App logging ready.
+2025-02-20 17:41:29,190 - root - INFO - Logger initialized.
+2025-02-20 17:41:29,190 - src - INFO - App logging ready.
+2025-02-20 17:42:17,160 - root - INFO - Logger initialized.
+2025-02-20 17:42:17,161 - src - INFO - App logging ready.
+2025-02-20 17:43:24,599 - root - INFO - Logger initialized.
+2025-02-20 17:43:24,599 - src - INFO - App logging ready.
+2025-02-20 17:45:36,959 - root - INFO - Logger initialized.
+2025-02-20 17:45:36,959 - src - INFO - App logging ready.
+2025-02-20 17:46:01,248 - root - INFO - Logger initialized.
+2025-02-20 17:46:01,249 - src - INFO - App logging ready.
+2025-02-20 17:48:18,896 - root - INFO - Logger initialized.
+2025-02-20 17:48:18,896 - src - INFO - App logging ready.
+2025-02-20 17:49:19,627 - root - INFO - Logger initialized.
+2025-02-20 17:49:19,627 - src - INFO - App logging ready.
+2025-02-20 17:49:45,388 - root - INFO - Logger initialized.
+2025-02-20 17:49:45,388 - src - INFO - App logging ready.
+2025-02-20 17:51:41,223 - root - INFO - Logger initialized.
+2025-02-20 17:51:41,223 - src - INFO - App logging ready.
+2025-02-20 17:52:04,282 - root - INFO - Logger initialized.
+2025-02-20 17:52:04,282 - src - INFO - App logging ready.
+2025-02-20 17:52:08,091 - root - INFO - Logger initialized.
+2025-02-20 17:52:08,091 - src - INFO - App logging ready.
+2025-02-20 17:52:16,205 - root - INFO - Logger initialized.
+2025-02-20 17:52:16,205 - src - INFO - App logging ready.
+2025-02-20 17:52:30,080 - root - INFO - Logger initialized.
+2025-02-20 17:52:30,081 - src - INFO - App logging ready.
+2025-02-20 17:52:55,335 - root - INFO - Logger initialized.
+2025-02-20 17:52:55,335 - src - INFO - App logging ready.
+2025-02-20 17:53:02,896 - root - INFO - Logger initialized.
+2025-02-20 17:53:02,897 - src - INFO - App logging ready.
+2025-02-20 17:53:12,541 - root - INFO - Logger initialized.
+2025-02-20 17:53:12,541 - src - INFO - App logging ready.
+2025-02-20 17:53:12,551 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Dog running
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Dog running
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:53:12,552 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:53:12,554 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:53:12,555 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:53:53,234 - root - INFO - Logger initialized.
+2025-02-20 17:53:53,234 - src - INFO - App logging ready.
+2025-02-20 17:53:56,077 - root - INFO - Logger initialized.
+2025-02-20 17:53:56,077 - src - INFO - App logging ready.
+2025-02-20 17:54:04,025 - root - INFO - Logger initialized.
+2025-02-20 17:54:04,025 - src - INFO - App logging ready.
+2025-02-20 17:54:06,953 - root - INFO - Logger initialized.
+2025-02-20 17:54:06,953 - src - INFO - App logging ready.
+2025-02-20 17:54:08,875 - root - INFO - Logger initialized.
+2025-02-20 17:54:08,876 - src - INFO - App logging ready.
+2025-02-20 17:54:12,752 - root - INFO - Logger initialized.
+2025-02-20 17:54:12,753 - src - INFO - App logging ready.
+2025-02-20 17:54:27,928 - root - INFO - Logger initialized.
+2025-02-20 17:54:27,928 - src - INFO - App logging ready.
+2025-02-20 17:54:37,490 - root - INFO - Logger initialized.
+2025-02-20 17:54:37,491 - src - INFO - App logging ready.
+2025-02-20 17:54:50,285 - root - INFO - Logger initialized.
+2025-02-20 17:54:50,285 - src - INFO - App logging ready.
+2025-02-20 17:54:56,964 - root - INFO - Logger initialized.
+2025-02-20 17:54:56,964 - src - INFO - App logging ready.
+2025-02-20 17:54:58,667 - root - INFO - Logger initialized.
+2025-02-20 17:54:58,667 - src - INFO - App logging ready.
+2025-02-20 17:56:45,181 - root - INFO - Logger initialized.
+2025-02-20 17:56:45,181 - src - INFO - App logging ready.
+2025-02-20 17:57:49,632 - root - INFO - Logger initialized.
+2025-02-20 17:57:49,632 - src - INFO - App logging ready.
+2025-02-20 17:58:12,468 - root - INFO - Logger initialized.
+2025-02-20 17:58:12,469 - src - INFO - App logging ready.
+2025-02-20 17:58:17,578 - root - INFO - Logger initialized.
+2025-02-20 17:58:17,578 - src - INFO - App logging ready.
+2025-02-20 17:58:21,334 - root - INFO - Logger initialized.
+2025-02-20 17:58:21,334 - src - INFO - App logging ready.
+2025-02-20 17:58:22,462 - root - INFO - Logger initialized.
+2025-02-20 17:58:22,463 - src - INFO - App logging ready.
+2025-02-20 17:58:23,915 - root - INFO - Logger initialized.
+2025-02-20 17:58:23,915 - src - INFO - App logging ready.
+2025-02-20 17:58:25,609 - root - INFO - Logger initialized.
+2025-02-20 17:58:25,609 - src - INFO - App logging ready.
+2025-02-20 17:58:28,452 - root - INFO - Logger initialized.
+2025-02-20 17:58:28,452 - src - INFO - App logging ready.
+2025-02-20 17:58:30,327 - root - INFO - Logger initialized.
+2025-02-20 17:58:30,327 - src - INFO - App logging ready.
+2025-02-20 17:58:53,696 - root - INFO - Logger initialized.
+2025-02-20 17:58:53,697 - src - INFO - App logging ready.
+2025-02-20 17:58:53,707 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:58:53,708 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:58:53,708 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:58:53,708 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:58:53,708 - src.section_classes - INFO - Dog running
+2025-02-20 17:58:53,708 - src.section_classes - INFO - Dog running
+2025-02-20 17:58:53,709 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:58:53,709 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:58:53,710 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:58:53,711 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:59:24,980 - root - INFO - Logger initialized.
+2025-02-20 17:59:24,981 - src - INFO - App logging ready.
+2025-02-20 17:59:27,271 - root - INFO - Logger initialized.
+2025-02-20 17:59:27,272 - src - INFO - App logging ready.
+2025-02-20 17:59:31,048 - root - INFO - Logger initialized.
+2025-02-20 17:59:31,048 - src - INFO - App logging ready.
+2025-02-20 17:59:33,712 - root - INFO - Logger initialized.
+2025-02-20 17:59:33,712 - src - INFO - App logging ready.
+2025-02-20 17:59:36,860 - root - INFO - Logger initialized.
+2025-02-20 17:59:36,861 - src - INFO - App logging ready.
+2025-02-20 17:59:36,873 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Making Animal sound
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Dog running
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Dog running
+2025-02-20 17:59:36,874 - src.section_classes - INFO - Dog making sound
+2025-02-20 17:59:36,875 - src.section_classes - INFO - Making Dog sound
+2025-02-20 17:59:36,876 - src.section_classes - INFO - Initialized Animal
+2025-02-20 17:59:36,878 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:00:54,416 - root - INFO - Logger initialized.
+2025-02-20 18:00:54,417 - src - INFO - App logging ready.
+2025-02-20 18:00:56,847 - root - INFO - Logger initialized.
+2025-02-20 18:00:56,848 - src - INFO - App logging ready.
+2025-02-20 18:01:01,417 - root - INFO - Logger initialized.
+2025-02-20 18:01:01,418 - src - INFO - App logging ready.
+2025-02-20 18:01:15,264 - root - INFO - Logger initialized.
+2025-02-20 18:01:15,265 - src - INFO - App logging ready.
+2025-02-20 18:01:18,359 - root - INFO - Logger initialized.
+2025-02-20 18:01:18,359 - src - INFO - App logging ready.
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Dog running
+2025-02-20 18:01:18,371 - src.section_classes - INFO - Dog running
+2025-02-20 18:01:18,372 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:01:18,372 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:01:18,373 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:18,374 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:46,694 - root - INFO - Logger initialized.
+2025-02-20 18:01:46,695 - src - INFO - App logging ready.
+2025-02-20 18:01:49,239 - root - INFO - Logger initialized.
+2025-02-20 18:01:49,239 - src - INFO - App logging ready.
+2025-02-20 18:01:52,273 - root - INFO - Logger initialized.
+2025-02-20 18:01:52,273 - src - INFO - App logging ready.
+2025-02-20 18:01:55,577 - root - INFO - Logger initialized.
+2025-02-20 18:01:55,578 - src - INFO - App logging ready.
+2025-02-20 18:01:55,623 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:55,623 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:55,623 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:01:55,623 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:01:55,624 - src.section_classes - INFO - Dog running
+2025-02-20 18:01:55,624 - src.section_classes - INFO - Dog running
+2025-02-20 18:01:55,624 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:01:55,624 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:01:55,625 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:01:55,626 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:02:55,145 - root - INFO - Logger initialized.
+2025-02-20 18:02:55,145 - src - INFO - App logging ready.
+2025-02-20 18:02:57,654 - root - INFO - Logger initialized.
+2025-02-20 18:02:57,655 - src - INFO - App logging ready.
+2025-02-20 18:02:59,672 - root - INFO - Logger initialized.
+2025-02-20 18:02:59,672 - src - INFO - App logging ready.
+2025-02-20 18:03:03,236 - root - INFO - Logger initialized.
+2025-02-20 18:03:03,236 - src - INFO - App logging ready.
+2025-02-20 18:03:03,246 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:03,246 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:03,246 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:03:03,246 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:03:03,247 - src.section_classes - INFO - Dog running
+2025-02-20 18:03:03,247 - src.section_classes - INFO - Dog running
+2025-02-20 18:03:03,247 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:03:03,247 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:03:03,248 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:03,250 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:36,294 - root - INFO - Logger initialized.
+2025-02-20 18:03:36,294 - src - INFO - App logging ready.
+2025-02-20 18:03:38,769 - root - INFO - Logger initialized.
+2025-02-20 18:03:38,769 - src - INFO - App logging ready.
+2025-02-20 18:03:41,010 - root - INFO - Logger initialized.
+2025-02-20 18:03:41,011 - src - INFO - App logging ready.
+2025-02-20 18:03:44,742 - root - INFO - Logger initialized.
+2025-02-20 18:03:44,742 - src - INFO - App logging ready.
+2025-02-20 18:03:44,752 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:44,752 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Dog running
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Dog running
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:03:44,753 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:03:44,754 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:03:44,755 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:04:39,079 - root - INFO - Logger initialized.
+2025-02-20 18:04:39,080 - src - INFO - App logging ready.
+2025-02-20 18:04:39,442 - root - INFO - Logger initialized.
+2025-02-20 18:04:39,442 - src - INFO - App logging ready.
+2025-02-20 18:04:43,801 - root - INFO - Logger initialized.
+2025-02-20 18:04:43,802 - src - INFO - App logging ready.
+2025-02-20 18:04:44,500 - root - INFO - Logger initialized.
+2025-02-20 18:04:44,500 - src - INFO - App logging ready.
+2025-02-20 18:04:48,238 - root - INFO - Logger initialized.
+2025-02-20 18:04:48,238 - src - INFO - App logging ready.
+2025-02-20 18:04:48,248 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:04:48,248 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:04:48,248 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:04:48,248 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:04:48,249 - src.section_classes - INFO - Dog running
+2025-02-20 18:04:48,249 - src.section_classes - INFO - Dog running
+2025-02-20 18:04:48,249 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:04:48,249 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:04:48,250 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:04:48,252 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:05:06,217 - root - INFO - Logger initialized.
+2025-02-20 18:05:06,218 - src - INFO - App logging ready.
+2025-02-20 18:05:07,429 - root - INFO - Logger initialized.
+2025-02-20 18:05:07,429 - src - INFO - App logging ready.
+2025-02-20 18:06:18,318 - root - INFO - Logger initialized.
+2025-02-20 18:06:18,318 - src - INFO - App logging ready.
+2025-02-20 18:06:20,037 - root - INFO - Logger initialized.
+2025-02-20 18:06:20,037 - src - INFO - App logging ready.
+2025-02-20 18:06:21,280 - root - INFO - Logger initialized.
+2025-02-20 18:06:21,280 - src - INFO - App logging ready.
+2025-02-20 18:06:22,791 - root - INFO - Logger initialized.
+2025-02-20 18:06:22,791 - src - INFO - App logging ready.
+2025-02-20 18:06:25,698 - root - INFO - Logger initialized.
+2025-02-20 18:06:25,698 - src - INFO - App logging ready.
+2025-02-20 18:06:28,296 - root - INFO - Logger initialized.
+2025-02-20 18:06:28,296 - src - INFO - App logging ready.
+2025-02-20 18:06:32,797 - root - INFO - Logger initialized.
+2025-02-20 18:06:32,797 - src - INFO - App logging ready.
+2025-02-20 18:06:35,561 - root - INFO - Logger initialized.
+2025-02-20 18:06:35,561 - src - INFO - App logging ready.
+2025-02-20 18:06:36,822 - root - INFO - Logger initialized.
+2025-02-20 18:06:36,822 - src - INFO - App logging ready.
+2025-02-20 18:06:42,343 - root - INFO - Logger initialized.
+2025-02-20 18:06:42,343 - src - INFO - App logging ready.
+2025-02-20 18:07:01,679 - root - INFO - Logger initialized.
+2025-02-20 18:07:01,679 - src - INFO - App logging ready.
+2025-02-20 18:07:06,743 - root - INFO - Logger initialized.
+2025-02-20 18:07:06,743 - src - INFO - App logging ready.
+2025-02-20 18:07:07,833 - root - INFO - Logger initialized.
+2025-02-20 18:07:07,833 - src - INFO - App logging ready.
+2025-02-20 18:07:12,057 - root - INFO - Logger initialized.
+2025-02-20 18:07:12,058 - src - INFO - App logging ready.
+2025-02-20 18:07:17,119 - root - INFO - Logger initialized.
+2025-02-20 18:07:17,119 - src - INFO - App logging ready.
+2025-02-20 18:07:21,961 - root - INFO - Logger initialized.
+2025-02-20 18:07:21,962 - src - INFO - App logging ready.
+2025-02-20 18:07:24,231 - root - INFO - Logger initialized.
+2025-02-20 18:07:24,231 - src - INFO - App logging ready.
+2025-02-20 18:07:36,560 - root - INFO - Logger initialized.
+2025-02-20 18:07:36,560 - src - INFO - App logging ready.
+2025-02-20 18:07:43,639 - root - INFO - Logger initialized.
+2025-02-20 18:07:43,640 - src - INFO - App logging ready.
+2025-02-20 18:08:06,811 - root - INFO - Logger initialized.
+2025-02-20 18:08:06,812 - src - INFO - App logging ready.
+2025-02-20 18:09:02,642 - root - INFO - Logger initialized.
+2025-02-20 18:09:02,642 - src - INFO - App logging ready.
+2025-02-20 18:09:02,652 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:09:02,652 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:09:02,652 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:09:02,653 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:09:02,653 - src.section_classes - INFO - Dog running
+2025-02-20 18:09:02,653 - src.section_classes - INFO - Dog running
+2025-02-20 18:09:02,653 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:09:02,653 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:09:02,654 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:09:02,655 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:11:47,578 - root - INFO - Logger initialized.
+2025-02-20 18:11:47,579 - src - INFO - App logging ready.
+2025-02-20 18:12:51,664 - root - INFO - Logger initialized.
+2025-02-20 18:12:51,664 - src - INFO - App logging ready.
+2025-02-20 18:26:08,283 - root - INFO - Logger initialized.
+2025-02-20 18:26:08,284 - src - INFO - App logging ready.
+2025-02-20 18:26:09,747 - root - INFO - Logger initialized.
+2025-02-20 18:26:09,748 - src - INFO - App logging ready.
+2025-02-20 18:26:13,411 - root - INFO - Logger initialized.
+2025-02-20 18:26:13,411 - src - INFO - App logging ready.
+2025-02-20 18:26:29,002 - root - INFO - Logger initialized.
+2025-02-20 18:26:29,003 - src - INFO - App logging ready.
+2025-02-20 18:26:30,178 - root - INFO - Logger initialized.
+2025-02-20 18:26:30,179 - src - INFO - App logging ready.
+2025-02-20 18:26:41,202 - root - INFO - Logger initialized.
+2025-02-20 18:26:41,203 - src - INFO - App logging ready.
+2025-02-20 18:26:43,184 - root - INFO - Logger initialized.
+2025-02-20 18:26:43,185 - src - INFO - App logging ready.
+2025-02-20 18:26:45,806 - root - INFO - Logger initialized.
+2025-02-20 18:26:45,806 - src - INFO - App logging ready.
+2025-02-20 18:26:48,779 - root - INFO - Logger initialized.
+2025-02-20 18:26:48,780 - src - INFO - App logging ready.
+2025-02-20 18:26:53,504 - root - INFO - Logger initialized.
+2025-02-20 18:26:53,505 - src - INFO - App logging ready.
+2025-02-20 18:27:04,371 - root - INFO - Logger initialized.
+2025-02-20 18:27:04,371 - src - INFO - App logging ready.
+2025-02-20 18:27:07,583 - root - INFO - Logger initialized.
+2025-02-20 18:27:07,583 - src - INFO - App logging ready.
+2025-02-20 18:27:10,061 - root - INFO - Logger initialized.
+2025-02-20 18:27:10,061 - src - INFO - App logging ready.
+2025-02-20 18:27:13,201 - root - INFO - Logger initialized.
+2025-02-20 18:27:13,201 - src - INFO - App logging ready.
+2025-02-20 18:27:15,220 - root - INFO - Logger initialized.
+2025-02-20 18:27:15,220 - src - INFO - App logging ready.
+2025-02-20 18:27:24,712 - root - INFO - Logger initialized.
+2025-02-20 18:27:24,713 - src - INFO - App logging ready.
+2025-02-20 18:27:31,253 - root - INFO - Logger initialized.
+2025-02-20 18:27:31,254 - src - INFO - App logging ready.
+2025-02-20 18:30:18,456 - root - INFO - Logger initialized.
+2025-02-20 18:30:18,456 - src - INFO - App logging ready.
+2025-02-20 18:30:22,146 - root - INFO - Logger initialized.
+2025-02-20 18:30:22,146 - src - INFO - App logging ready.
+2025-02-20 18:30:26,686 - root - INFO - Logger initialized.
+2025-02-20 18:30:26,686 - src - INFO - App logging ready.
+2025-02-20 18:30:28,918 - root - INFO - Logger initialized.
+2025-02-20 18:30:28,918 - src - INFO - App logging ready.
+2025-02-20 18:30:36,078 - root - INFO - Logger initialized.
+2025-02-20 18:30:36,078 - src - INFO - App logging ready.
+2025-02-20 18:30:38,049 - root - INFO - Logger initialized.
+2025-02-20 18:30:38,050 - src - INFO - App logging ready.
+2025-02-20 18:30:43,580 - root - INFO - Logger initialized.
+2025-02-20 18:30:43,580 - src - INFO - App logging ready.
+2025-02-20 18:30:45,410 - root - INFO - Logger initialized.
+2025-02-20 18:30:45,410 - src - INFO - App logging ready.
+2025-02-20 18:30:47,396 - root - INFO - Logger initialized.
+2025-02-20 18:30:47,396 - src - INFO - App logging ready.
+2025-02-20 18:30:49,997 - root - INFO - Logger initialized.
+2025-02-20 18:30:49,998 - src - INFO - App logging ready.
+2025-02-20 18:30:53,314 - root - INFO - Logger initialized.
+2025-02-20 18:30:53,314 - src - INFO - App logging ready.
+2025-02-20 18:30:56,172 - root - INFO - Logger initialized.
+2025-02-20 18:30:56,172 - src - INFO - App logging ready.
+2025-02-20 18:31:04,636 - root - INFO - Logger initialized.
+2025-02-20 18:31:04,636 - src - INFO - App logging ready.
+2025-02-20 18:31:09,430 - root - INFO - Logger initialized.
+2025-02-20 18:31:09,431 - src - INFO - App logging ready.
+2025-02-20 18:31:16,241 - root - INFO - Logger initialized.
+2025-02-20 18:31:16,242 - src - INFO - App logging ready.
+2025-02-20 18:31:17,512 - root - INFO - Logger initialized.
+2025-02-20 18:31:17,512 - src - INFO - App logging ready.
+2025-02-20 18:31:24,566 - root - INFO - Logger initialized.
+2025-02-20 18:31:24,566 - src - INFO - App logging ready.
+2025-02-20 18:31:25,964 - root - INFO - Logger initialized.
+2025-02-20 18:31:25,964 - src - INFO - App logging ready.
+2025-02-20 18:31:33,938 - root - INFO - Logger initialized.
+2025-02-20 18:31:33,939 - src - INFO - App logging ready.
+2025-02-20 18:31:35,879 - root - INFO - Logger initialized.
+2025-02-20 18:31:35,879 - src - INFO - App logging ready.
+2025-02-20 18:31:45,559 - root - INFO - Logger initialized.
+2025-02-20 18:31:45,559 - src - INFO - App logging ready.
+2025-02-20 18:31:51,380 - root - INFO - Logger initialized.
+2025-02-20 18:31:51,380 - src - INFO - App logging ready.
+2025-02-20 18:31:56,101 - root - INFO - Logger initialized.
+2025-02-20 18:31:56,101 - src - INFO - App logging ready.
+2025-02-20 18:32:09,204 - root - INFO - Logger initialized.
+2025-02-20 18:32:09,204 - src - INFO - App logging ready.
+2025-02-20 18:32:16,198 - root - INFO - Logger initialized.
+2025-02-20 18:32:16,198 - src - INFO - App logging ready.
+2025-02-20 18:32:17,170 - root - INFO - Logger initialized.
+2025-02-20 18:32:17,170 - src - INFO - App logging ready.
+2025-02-20 18:32:19,689 - root - INFO - Logger initialized.
+2025-02-20 18:32:19,689 - src - INFO - App logging ready.
+2025-02-20 18:32:28,273 - root - INFO - Logger initialized.
+2025-02-20 18:32:28,273 - src - INFO - App logging ready.
+2025-02-20 18:32:29,107 - root - INFO - Logger initialized.
+2025-02-20 18:32:29,107 - src - INFO - App logging ready.
+2025-02-20 18:44:15,917 - root - INFO - Logger initialized.
+2025-02-20 18:44:15,917 - src - INFO - App logging ready.
+2025-02-20 18:44:24,073 - root - INFO - Logger initialized.
+2025-02-20 18:44:24,073 - src - INFO - App logging ready.
+2025-02-20 18:44:27,659 - root - INFO - Logger initialized.
+2025-02-20 18:44:27,659 - src - INFO - App logging ready.
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Dog running
+2025-02-20 18:44:27,669 - src.section_classes - INFO - Dog running
+2025-02-20 18:44:27,670 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:44:27,670 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:44:27,671 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:44:27,672 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:44:48,172 - root - INFO - Logger initialized.
+2025-02-20 18:44:48,172 - src - INFO - App logging ready.
+2025-02-20 18:44:50,868 - root - INFO - Logger initialized.
+2025-02-20 18:44:50,869 - src - INFO - App logging ready.
+2025-02-20 18:44:53,221 - root - INFO - Logger initialized.
+2025-02-20 18:44:53,222 - src - INFO - App logging ready.
+2025-02-20 18:45:16,836 - root - INFO - Logger initialized.
+2025-02-20 18:45:16,836 - src - INFO - App logging ready.
+2025-02-20 18:45:20,805 - root - INFO - Logger initialized.
+2025-02-20 18:45:20,806 - src - INFO - App logging ready.
+2025-02-20 18:46:51,079 - root - INFO - Logger initialized.
+2025-02-20 18:46:51,080 - src - INFO - App logging ready.
+2025-02-20 18:46:51,090 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:46:51,090 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:46:51,090 - src.section_classes - INFO - Making Animal sound
+2025-02-20 18:46:51,091 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:46:51,091 - src.section_classes - INFO - Dog running
+2025-02-20 18:46:51,091 - src.section_classes - INFO - Dog running
+2025-02-20 18:46:51,091 - src.section_classes - INFO - Dog making sound
+2025-02-20 18:46:51,091 - src.section_classes - INFO - Making Dog sound
+2025-02-20 18:46:51,092 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:46:51,093 - src.section_classes - INFO - Initialized Animal
+2025-02-20 18:48:19,505 - root - INFO - Logger initialized.
+2025-02-20 18:48:19,505 - src - INFO - App logging ready.
+2025-02-20 18:48:21,694 - root - INFO - Logger initialized.
+2025-02-20 18:48:21,695 - src - INFO - App logging ready.
+2025-02-20 18:48:25,739 - root - INFO - Logger initialized.
+2025-02-20 18:48:25,739 - src - INFO - App logging ready.
+2025-02-20 18:48:31,109 - root - INFO - Logger initialized.
+2025-02-20 18:48:31,109 - src - INFO - App logging ready.
+2025-02-20 18:48:33,348 - root - INFO - Logger initialized.
+2025-02-20 18:48:33,349 - src - INFO - App logging ready.
+2025-02-20 18:48:36,902 - root - INFO - Logger initialized.
+2025-02-20 18:48:36,902 - src - INFO - App logging ready.
+2025-02-20 18:48:39,270 - root - INFO - Logger initialized.
+2025-02-20 18:48:39,270 - src - INFO - App logging ready.
+2025-02-20 18:49:54,497 - root - INFO - Logger initialized.
+2025-02-20 18:49:54,498 - src - INFO - App logging ready.
+2025-02-20 18:49:57,363 - root - INFO - Logger initialized.
+2025-02-20 18:49:57,363 - src - INFO - App logging ready.
+2025-02-20 18:50:03,245 - root - INFO - Logger initialized.
+2025-02-20 18:50:03,246 - src - INFO - App logging ready.
+2025-02-20 18:50:53,712 - root - INFO - Logger initialized.
+2025-02-20 18:50:53,713 - src - INFO - App logging ready.
+2025-02-20 18:50:56,141 - root - INFO - Logger initialized.
+2025-02-20 18:50:56,141 - src - INFO - App logging ready.
+2025-02-20 18:50:59,316 - root - INFO - Logger initialized.
+2025-02-20 18:50:59,316 - src - INFO - App logging ready.
+2025-02-20 18:51:01,350 - root - INFO - Logger initialized.
+2025-02-20 18:51:01,351 - src - INFO - App logging ready.
+2025-02-20 18:51:03,228 - root - INFO - Logger initialized.
+2025-02-20 18:51:03,229 - src - INFO - App logging ready.
+2025-02-20 18:51:08,762 - root - INFO - Logger initialized.
+2025-02-20 18:51:08,762 - src - INFO - App logging ready.
+2025-02-20 18:51:14,318 - root - INFO - Logger initialized.
+2025-02-20 18:51:14,318 - src - INFO - App logging ready.
+2025-02-20 18:51:18,324 - root - INFO - Logger initialized.
+2025-02-20 18:51:18,324 - src - INFO - App logging ready.
+2025-02-20 18:51:21,521 - root - INFO - Logger initialized.
+2025-02-20 18:51:21,521 - src - INFO - App logging ready.
+2025-02-20 18:51:22,856 - root - INFO - Logger initialized.
+2025-02-20 18:51:22,857 - src - INFO - App logging ready.
+2025-02-20 18:51:24,814 - root - INFO - Logger initialized.
+2025-02-20 18:51:24,815 - src - INFO - App logging ready.
+2025-02-20 18:51:26,477 - root - INFO - Logger initialized.
+2025-02-20 18:51:26,478 - src - INFO - App logging ready.
+2025-02-20 18:51:49,381 - root - INFO - Logger initialized.
+2025-02-20 18:51:49,381 - src - INFO - App logging ready.
+2025-02-20 18:51:54,882 - root - INFO - Logger initialized.
+2025-02-20 18:51:54,882 - src - INFO - App logging ready.
+2025-02-20 18:51:56,927 - root - INFO - Logger initialized.
+2025-02-20 18:51:56,927 - src - INFO - App logging ready.
+2025-02-20 18:52:01,193 - root - INFO - Logger initialized.
+2025-02-20 18:52:01,202 - src - INFO - App logging ready.
+2025-02-20 18:52:04,522 - root - INFO - Logger initialized.
+2025-02-20 18:52:04,522 - src - INFO - App logging ready.
+2025-02-20 18:52:04,986 - root - INFO - Logger initialized.
+2025-02-20 18:52:04,986 - src - INFO - App logging ready.
+2025-02-20 18:52:12,686 - root - INFO - Logger initialized.
+2025-02-20 18:52:12,686 - src - INFO - App logging ready.
+2025-02-20 18:52:14,636 - root - INFO - Logger initialized.
+2025-02-20 18:52:14,636 - src - INFO - App logging ready.
+2025-02-20 18:52:20,629 - root - INFO - Logger initialized.
+2025-02-20 18:52:20,630 - src - INFO - App logging ready.
+2025-02-20 19:06:23,434 - root - INFO - Logger initialized.
+2025-02-20 19:06:23,434 - src - INFO - App logging ready.
+2025-02-20 19:06:24,673 - root - INFO - Logger initialized.
+2025-02-20 19:06:24,674 - src - INFO - App logging ready.
+2025-02-20 19:06:26,900 - root - INFO - Logger initialized.
+2025-02-20 19:06:26,901 - src - INFO - App logging ready.
+2025-02-20 19:06:32,330 - root - INFO - Logger initialized.
+2025-02-20 19:06:32,331 - src - INFO - App logging ready.
+2025-02-20 19:06:34,652 - root - INFO - Logger initialized.
+2025-02-20 19:06:34,652 - src - INFO - App logging ready.
+2025-02-20 19:06:36,855 - root - INFO - Logger initialized.
+2025-02-20 19:06:36,855 - src - INFO - App logging ready.
+2025-02-20 19:06:40,209 - root - INFO - Logger initialized.
+2025-02-20 19:06:40,211 - src - INFO - App logging ready.
+2025-02-20 19:06:41,838 - root - INFO - Logger initialized.
+2025-02-20 19:06:41,838 - src - INFO - App logging ready.
+2025-02-20 19:06:45,059 - root - INFO - Logger initialized.
+2025-02-20 19:06:45,060 - src - INFO - App logging ready.
+2025-02-20 19:07:11,217 - root - INFO - Logger initialized.
+2025-02-20 19:07:11,217 - src - INFO - App logging ready.
+2025-02-20 19:07:16,310 - root - INFO - Logger initialized.
+2025-02-20 19:07:16,311 - src - INFO - App logging ready.
+2025-02-20 19:07:24,790 - root - INFO - Logger initialized.
+2025-02-20 19:07:24,790 - src - INFO - App logging ready.
+2025-02-20 19:07:26,758 - root - INFO - Logger initialized.
+2025-02-20 19:07:26,758 - src - INFO - App logging ready.
+2025-02-20 19:07:30,751 - root - INFO - Logger initialized.
+2025-02-20 19:07:30,751 - src - INFO - App logging ready.
+2025-02-20 19:07:34,014 - root - INFO - Logger initialized.
+2025-02-20 19:07:34,015 - src - INFO - App logging ready.
+2025-02-20 19:07:37,466 - root - INFO - Logger initialized.
+2025-02-20 19:07:37,466 - src - INFO - App logging ready.
+2025-02-20 19:07:39,200 - root - INFO - Logger initialized.
+2025-02-20 19:07:39,201 - src - INFO - App logging ready.
+2025-02-20 19:07:49,423 - root - INFO - Logger initialized.
+2025-02-20 19:07:49,425 - src - INFO - App logging ready.
+2025-02-20 19:07:52,980 - root - INFO - Logger initialized.
+2025-02-20 19:07:52,980 - src - INFO - App logging ready.
+2025-02-20 19:07:52,998 - src.section_classes - INFO - Initialized Animal
+2025-02-20 19:07:52,998 - src.section_classes - INFO - Initialized Animal
+2025-02-20 19:07:52,998 - src.section_classes - INFO - Making Animal sound
+2025-02-20 19:07:52,998 - src.section_classes - INFO - Making Dog sound
+2025-02-20 19:07:52,999 - src.section_classes - INFO - Dog running
+2025-02-20 19:07:52,999 - src.section_classes - INFO - Dog running
+2025-02-20 19:07:52,999 - src.section_classes - INFO - Dog making sound
+2025-02-20 19:07:52,999 - src.section_classes - INFO - Making Dog sound
+2025-02-20 19:07:53,001 - src.section_classes - INFO - Initialized Animal
+2025-02-20 19:07:53,003 - src.section_classes - INFO - Initialized Animal
+2025-02-20 19:12:08,775 - root - INFO - Logger initialized.
+2025-02-20 19:12:08,776 - src - INFO - App logging ready.
+2025-02-20 19:12:16,611 - root - INFO - Logger initialized.
+2025-02-20 19:12:16,612 - src - INFO - App logging ready.
+2025-02-20 19:12:18,405 - root - INFO - Logger initialized.
+2025-02-20 19:12:18,405 - src - INFO - App logging ready.
+2025-02-20 19:12:20,888 - root - INFO - Logger initialized.
+2025-02-20 19:12:20,888 - src - INFO - App logging ready.
+2025-02-20 19:12:26,589 - root - INFO - Logger initialized.
+2025-02-20 19:12:26,589 - src - INFO - App logging ready.
+2025-02-20 19:12:42,363 - root - INFO - Logger initialized.
+2025-02-20 19:12:42,364 - src - INFO - App logging ready.
+2025-02-20 19:12:43,690 - root - INFO - Logger initialized.
+2025-02-20 19:12:43,690 - src - INFO - App logging ready.
+2025-02-20 19:12:45,391 - root - INFO - Logger initialized.
+2025-02-20 19:12:45,391 - src - INFO - App logging ready.
+2025-02-20 19:12:47,419 - root - INFO - Logger initialized.
+2025-02-20 19:12:47,419 - src - INFO - App logging ready.
+2025-02-20 19:12:50,612 - root - INFO - Logger initialized.
+2025-02-20 19:12:50,612 - src - INFO - App logging ready.
+2025-02-20 19:13:07,254 - root - INFO - Logger initialized.
+2025-02-20 19:13:07,254 - src - INFO - App logging ready.
+2025-02-20 19:13:09,497 - root - INFO - Logger initialized.
+2025-02-20 19:13:09,498 - src - INFO - App logging ready.
+2025-02-20 19:14:56,581 - root - INFO - Logger initialized.
+2025-02-20 19:14:56,582 - src - INFO - App logging ready.
+2025-02-20 19:18:44,670 - root - INFO - Logger initialized.
+2025-02-20 19:18:44,671 - src - INFO - App logging ready.
+2025-02-20 19:18:49,517 - root - INFO - Logger initialized.
+2025-02-20 19:18:49,518 - src - INFO - App logging ready.
+2025-02-20 19:18:51,340 - root - INFO - Logger initialized.
+2025-02-20 19:18:51,340 - src - INFO - App logging ready.
+2025-02-20 19:18:52,420 - root - INFO - Logger initialized.
+2025-02-20 19:18:52,420 - src - INFO - App logging ready.
+2025-02-20 19:18:55,138 - root - INFO - Logger initialized.
+2025-02-20 19:18:55,138 - src - INFO - App logging ready.
+2025-02-20 19:18:56,574 - root - INFO - Logger initialized.
+2025-02-20 19:18:56,575 - src - INFO - App logging ready.
+2025-02-20 19:19:02,494 - root - INFO - Logger initialized.
+2025-02-20 19:19:02,494 - src - INFO - App logging ready.
+2025-02-20 19:19:04,770 - root - INFO - Logger initialized.
+2025-02-20 19:19:04,771 - src - INFO - App logging ready.
+2025-02-20 19:19:08,559 - root - INFO - Logger initialized.
+2025-02-20 19:19:08,560 - src - INFO - App logging ready.
+2025-02-20 19:19:11,409 - root - INFO - Logger initialized.
+2025-02-20 19:19:11,409 - src - INFO - App logging ready.
+2025-02-20 19:19:15,368 - root - INFO - Logger initialized.
+2025-02-20 19:19:15,369 - src - INFO - App logging ready.
+2025-02-20 19:19:20,885 - root - INFO - Logger initialized.
+2025-02-20 19:19:20,886 - src - INFO - App logging ready.
+2025-02-20 19:19:25,617 - root - INFO - Logger initialized.
+2025-02-20 19:19:25,618 - src - INFO - App logging ready.
+2025-02-20 19:19:29,439 - root - INFO - Logger initialized.
+2025-02-20 19:19:29,460 - src - INFO - App logging ready.
+2025-02-20 19:19:32,499 - root - INFO - Logger initialized.
+2025-02-20 19:19:32,499 - src - INFO - App logging ready.
+2025-02-20 19:19:34,016 - root - INFO - Logger initialized.
+2025-02-20 19:19:34,016 - src - INFO - App logging ready.
+2025-02-20 19:19:40,841 - root - INFO - Logger initialized.
+2025-02-20 19:19:40,841 - src - INFO - App logging ready.
+2025-02-20 19:19:45,985 - root - INFO - Logger initialized.
+2025-02-20 19:19:45,986 - src - INFO - App logging ready.
+2025-02-20 19:19:49,038 - root - INFO - Logger initialized.
+2025-02-20 19:19:49,039 - src - INFO - App logging ready.
+2025-02-20 19:19:57,316 - root - INFO - Logger initialized.
+2025-02-20 19:19:57,317 - src - INFO - App logging ready.
+2025-02-20 19:20:10,461 - root - INFO - Logger initialized.
+2025-02-20 19:20:10,462 - src - INFO - App logging ready.
+2025-02-20 19:20:20,935 - root - INFO - Logger initialized.
+2025-02-20 19:20:20,959 - src - INFO - App logging ready.
+2025-02-20 19:20:22,855 - root - INFO - Logger initialized.
+2025-02-20 19:20:22,856 - src - INFO - App logging ready.
+2025-02-20 19:20:25,345 - root - INFO - Logger initialized.
+2025-02-20 19:20:25,346 - src - INFO - App logging ready.
+2025-02-20 19:20:27,712 - root - INFO - Logger initialized.
+2025-02-20 19:20:27,713 - src - INFO - App logging ready.
+2025-02-20 19:20:31,328 - root - INFO - Logger initialized.
+2025-02-20 19:20:31,328 - src - INFO - App logging ready.
+2025-02-20 19:20:34,437 - root - INFO - Logger initialized.
+2025-02-20 19:20:34,438 - src - INFO - App logging ready.
+2025-02-20 19:20:39,155 - root - INFO - Logger initialized.
+2025-02-20 19:20:39,156 - src - INFO - App logging ready.
+2025-02-20 19:20:42,883 - root - INFO - Logger initialized.
+2025-02-20 19:20:42,883 - src - INFO - App logging ready.
+2025-02-20 19:20:45,946 - root - INFO - Logger initialized.
+2025-02-20 19:20:45,946 - src - INFO - App logging ready.
+2025-02-20 19:20:50,453 - root - INFO - Logger initialized.
+2025-02-20 19:20:50,453 - src - INFO - App logging ready.
+2025-02-20 19:20:54,237 - root - INFO - Logger initialized.
+2025-02-20 19:20:54,238 - src - INFO - App logging ready.
+2025-02-20 19:21:00,611 - root - INFO - Logger initialized.
+2025-02-20 19:21:00,612 - src - INFO - App logging ready.
+2025-02-20 19:21:08,414 - root - INFO - Logger initialized.
+2025-02-20 19:21:08,415 - src - INFO - App logging ready.
+2025-02-20 19:21:17,607 - root - INFO - Logger initialized.
+2025-02-20 19:21:17,608 - src - INFO - App logging ready.
+2025-02-20 19:21:25,799 - root - INFO - Logger initialized.
+2025-02-20 19:21:25,800 - src - INFO - App logging ready.
+2025-02-20 19:21:28,761 - root - INFO - Logger initialized.
+2025-02-20 19:21:28,761 - src - INFO - App logging ready.
+2025-02-20 19:21:32,024 - root - INFO - Logger initialized.
+2025-02-20 19:21:32,025 - src - INFO - App logging ready.
+2025-02-20 19:21:33,262 - root - INFO - Logger initialized.
+2025-02-20 19:21:33,263 - src - INFO - App logging ready.
+2025-02-20 19:21:34,256 - root - INFO - Logger initialized.
+2025-02-20 19:21:34,257 - src - INFO - App logging ready.
+2025-02-20 19:21:38,434 - root - INFO - Logger initialized.
+2025-02-20 19:21:38,434 - src - INFO - App logging ready.
+2025-02-20 19:21:43,592 - root - INFO - Logger initialized.
+2025-02-20 19:21:43,593 - src - INFO - App logging ready.
+2025-02-20 19:21:53,568 - root - INFO - Logger initialized.
+2025-02-20 19:21:53,568 - src - INFO - App logging ready.
+2025-02-20 19:21:58,358 - root - INFO - Logger initialized.
+2025-02-20 19:21:58,358 - src - INFO - App logging ready.
+2025-02-20 19:22:00,738 - root - INFO - Logger initialized.
+2025-02-20 19:22:00,739 - src - INFO - App logging ready.
+2025-02-20 19:22:09,623 - root - INFO - Logger initialized.
+2025-02-20 19:22:09,623 - src - INFO - App logging ready.
+2025-02-20 19:22:11,069 - root - INFO - Logger initialized.
+2025-02-20 19:22:11,070 - src - INFO - App logging ready.
+2025-02-20 19:22:19,901 - root - INFO - Logger initialized.
+2025-02-20 19:22:19,901 - src - INFO - App logging ready.
+2025-02-20 19:22:21,641 - root - INFO - Logger initialized.
+2025-02-20 19:22:21,642 - src - INFO - App logging ready.
+2025-02-20 19:22:23,776 - root - INFO - Logger initialized.
+2025-02-20 19:22:23,776 - src - INFO - App logging ready.
+2025-02-20 19:22:24,924 - root - INFO - Logger initialized.
+2025-02-20 19:22:24,925 - src - INFO - App logging ready.
+2025-02-20 19:22:27,709 - root - INFO - Logger initialized.
+2025-02-20 19:22:27,710 - src - INFO - App logging ready.
+2025-02-20 19:22:28,422 - root - INFO - Logger initialized.
+2025-02-20 19:22:28,423 - src - INFO - App logging ready.
+2025-02-20 19:23:25,143 - root - INFO - Logger initialized.
+2025-02-20 19:23:25,144 - src - INFO - App logging ready.
+2025-02-20 19:23:28,797 - root - INFO - Logger initialized.
+2025-02-20 19:23:28,798 - src - INFO - App logging ready.
+2025-02-20 19:24:22,625 - root - INFO - Logger initialized.
+2025-02-20 19:24:22,625 - src - INFO - App logging ready.
+2025-02-20 19:24:25,525 - root - INFO - Logger initialized.
+2025-02-20 19:24:25,525 - src - INFO - App logging ready.
+2025-02-20 19:24:26,840 - root - INFO - Logger initialized.
+2025-02-20 19:24:26,840 - src - INFO - App logging ready.
+2025-02-20 19:24:31,437 - root - INFO - Logger initialized.
+2025-02-20 19:24:31,438 - src - INFO - App logging ready.
+2025-02-20 19:24:35,862 - root - INFO - Logger initialized.
+2025-02-20 19:24:35,862 - src - INFO - App logging ready.
+2025-02-20 19:24:44,846 - root - INFO - Logger initialized.
+2025-02-20 19:24:44,847 - src - INFO - App logging ready.
+2025-02-20 19:24:49,496 - root - INFO - Logger initialized.
+2025-02-20 19:24:49,496 - src - INFO - App logging ready.
+2025-02-20 19:24:55,471 - root - INFO - Logger initialized.
+2025-02-20 19:24:55,471 - src - INFO - App logging ready.
+2025-02-20 19:24:59,479 - root - INFO - Logger initialized.
+2025-02-20 19:24:59,480 - src - INFO - App logging ready.
+2025-02-20 19:25:03,123 - root - INFO - Logger initialized.
+2025-02-20 19:25:03,123 - src - INFO - App logging ready.
+2025-02-20 19:25:05,129 - root - INFO - Logger initialized.
+2025-02-20 19:25:05,131 - src - INFO - App logging ready.
+2025-02-20 19:25:06,329 - root - INFO - Logger initialized.
+2025-02-20 19:25:06,330 - src - INFO - App logging ready.
+2025-02-20 19:29:01,049 - root - INFO - Logger initialized.
+2025-02-20 19:29:01,049 - src - INFO - App logging ready.
+2025-02-20 19:29:04,956 - root - INFO - Logger initialized.
+2025-02-20 19:29:04,956 - src - INFO - App logging ready.
+2025-02-20 19:29:06,187 - root - INFO - Logger initialized.
+2025-02-20 19:29:06,187 - src - INFO - App logging ready.
+2025-02-20 19:30:44,670 - root - INFO - Logger initialized.
+2025-02-20 19:30:44,671 - src - INFO - App logging ready.
+2025-02-20 19:30:46,634 - root - INFO - Logger initialized.
+2025-02-20 19:30:46,635 - src - INFO - App logging ready.
+2025-02-20 19:30:53,034 - root - INFO - Logger initialized.
+2025-02-20 19:30:53,034 - src - INFO - App logging ready.
+2025-02-20 19:30:54,880 - root - INFO - Logger initialized.
+2025-02-20 19:30:54,881 - src - INFO - App logging ready.
+2025-02-20 19:30:56,787 - root - INFO - Logger initialized.
+2025-02-20 19:30:56,787 - src - INFO - App logging ready.
+2025-02-20 19:31:29,956 - root - INFO - Logger initialized.
+2025-02-20 19:31:29,956 - src - INFO - App logging ready.
+2025-02-20 19:31:33,018 - root - INFO - Logger initialized.
+2025-02-20 19:31:33,018 - src - INFO - App logging ready.
+2025-02-20 19:33:56,951 - root - INFO - Logger initialized.
+2025-02-20 19:33:56,952 - src - INFO - App logging ready.
+2025-02-20 19:33:58,592 - root - INFO - Logger initialized.
+2025-02-20 19:33:58,592 - src - INFO - App logging ready.
+2025-02-20 19:34:03,778 - root - INFO - Logger initialized.
+2025-02-20 19:34:03,778 - src - INFO - App logging ready.
+2025-02-20 19:34:12,145 - root - INFO - Logger initialized.
+2025-02-20 19:34:12,146 - src - INFO - App logging ready.
+2025-02-20 19:34:17,514 - root - INFO - Logger initialized.
+2025-02-20 19:34:17,514 - src - INFO - App logging ready.
+2025-02-20 19:34:20,289 - root - INFO - Logger initialized.
+2025-02-20 19:34:20,290 - src - INFO - App logging ready.
+2025-02-20 19:34:25,716 - root - INFO - Logger initialized.
+2025-02-20 19:34:25,717 - src - INFO - App logging ready.
+2025-02-20 19:34:32,360 - root - INFO - Logger initialized.
+2025-02-20 19:34:32,361 - src - INFO - App logging ready.
+2025-02-20 19:34:34,931 - root - INFO - Logger initialized.
+2025-02-20 19:34:34,932 - src - INFO - App logging ready.
+2025-02-20 19:34:37,710 - root - INFO - Logger initialized.
+2025-02-20 19:34:37,711 - src - INFO - App logging ready.
+2025-02-20 19:34:44,048 - root - INFO - Logger initialized.
+2025-02-20 19:34:44,049 - src - INFO - App logging ready.
+2025-02-20 19:34:46,568 - root - INFO - Logger initialized.
+2025-02-20 19:34:46,568 - src - INFO - App logging ready.
+2025-02-20 19:34:51,255 - root - INFO - Logger initialized.
+2025-02-20 19:34:51,256 - src - INFO - App logging ready.
+2025-02-20 19:35:03,009 - root - INFO - Logger initialized.
+2025-02-20 19:35:03,009 - src - INFO - App logging ready.
+2025-02-20 19:35:06,213 - root - INFO - Logger initialized.
+2025-02-20 19:35:06,213 - src - INFO - App logging ready.
+2025-02-20 19:35:09,216 - root - INFO - Logger initialized.
+2025-02-20 19:35:09,216 - src - INFO - App logging ready.
+2025-02-20 19:35:10,896 - root - INFO - Logger initialized.
+2025-02-20 19:35:10,896 - src - INFO - App logging ready.
+2025-02-20 19:35:18,549 - root - INFO - Logger initialized.
+2025-02-20 19:35:18,550 - src - INFO - App logging ready.
+2025-02-20 19:35:26,862 - root - INFO - Logger initialized.
+2025-02-20 19:35:26,863 - src - INFO - App logging ready.
+2025-02-20 19:35:28,266 - root - INFO - Logger initialized.
+2025-02-20 19:35:28,266 - src - INFO - App logging ready.
+2025-02-20 19:35:31,974 - root - INFO - Logger initialized.
+2025-02-20 19:35:31,975 - src - INFO - App logging ready.
+2025-02-20 19:35:35,299 - root - INFO - Logger initialized.
+2025-02-20 19:35:35,300 - src - INFO - App logging ready.
+2025-02-20 19:35:38,296 - root - INFO - Logger initialized.
+2025-02-20 19:35:38,297 - src - INFO - App logging ready.
+2025-02-20 19:35:41,929 - root - INFO - Logger initialized.
+2025-02-20 19:35:41,929 - src - INFO - App logging ready.
+2025-02-20 19:35:43,947 - root - INFO - Logger initialized.
+2025-02-20 19:35:43,947 - src - INFO - App logging ready.
+2025-02-20 19:35:45,225 - root - INFO - Logger initialized.
+2025-02-20 19:35:45,226 - src - INFO - App logging ready.
+2025-02-20 19:35:51,929 - root - INFO - Logger initialized.
+2025-02-20 19:35:51,930 - src - INFO - App logging ready.
+2025-02-20 19:35:54,701 - root - INFO - Logger initialized.
+2025-02-20 19:35:54,702 - src - INFO - App logging ready.
+2025-02-20 19:36:00,957 - root - INFO - Logger initialized.
+2025-02-20 19:36:00,958 - src - INFO - App logging ready.
+2025-02-20 19:36:03,277 - root - INFO - Logger initialized.
+2025-02-20 19:36:03,277 - src - INFO - App logging ready.
+2025-02-20 19:36:14,090 - root - INFO - Logger initialized.
+2025-02-20 19:36:14,091 - src - INFO - App logging ready.
+2025-02-20 19:36:19,079 - root - INFO - Logger initialized.
+2025-02-20 19:36:19,079 - src - INFO - App logging ready.
+2025-02-20 19:36:23,404 - root - INFO - Logger initialized.
+2025-02-20 19:36:23,404 - src - INFO - App logging ready.
+2025-02-20 19:36:25,050 - root - INFO - Logger initialized.
+2025-02-20 19:36:25,050 - src - INFO - App logging ready.
+2025-02-20 19:36:26,485 - root - INFO - Logger initialized.
+2025-02-20 19:36:26,486 - src - INFO - App logging ready.
+2025-02-20 19:36:29,942 - root - INFO - Logger initialized.
+2025-02-20 19:36:29,942 - src - INFO - App logging ready.
+2025-02-20 19:36:31,809 - root - INFO - Logger initialized.
+2025-02-20 19:36:31,809 - src - INFO - App logging ready.
+2025-02-20 19:36:38,615 - root - INFO - Logger initialized.
+2025-02-20 19:36:38,615 - src - INFO - App logging ready.
+2025-02-20 19:36:54,894 - root - INFO - Logger initialized.
+2025-02-20 19:36:54,894 - src - INFO - App logging ready.
+2025-02-20 19:36:56,888 - root - INFO - Logger initialized.
+2025-02-20 19:36:56,888 - src - INFO - App logging ready.
+2025-02-20 19:37:01,830 - root - INFO - Logger initialized.
+2025-02-20 19:37:01,831 - src - INFO - App logging ready.
+2025-02-20 19:37:04,926 - root - INFO - Logger initialized.
+2025-02-20 19:37:04,926 - src - INFO - App logging ready.
+2025-02-20 19:37:41,196 - root - INFO - Logger initialized.
+2025-02-20 19:37:41,196 - src - INFO - App logging ready.
+2025-02-20 19:38:07,139 - root - INFO - Logger initialized.
+2025-02-20 19:38:07,139 - src - INFO - App logging ready.
+2025-02-20 19:39:09,165 - root - INFO - Logger initialized.
+2025-02-20 19:39:09,166 - src - INFO - App logging ready.
+2025-02-20 19:44:10,215 - root - INFO - Logger initialized.
+2025-02-20 19:44:10,216 - src - INFO - App logging ready.
+2025-02-20 19:44:13,196 - root - INFO - Logger initialized.
+2025-02-20 19:44:13,196 - src - INFO - App logging ready.
+2025-02-20 19:44:14,836 - root - INFO - Logger initialized.
+2025-02-20 19:44:14,836 - src - INFO - App logging ready.
+2025-02-20 19:44:18,056 - root - INFO - Logger initialized.
+2025-02-20 19:44:18,056 - src - INFO - App logging ready.
+2025-02-20 19:44:21,456 - root - INFO - Logger initialized.
+2025-02-20 19:44:21,456 - src - INFO - App logging ready.
+2025-02-20 19:44:38,356 - root - INFO - Logger initialized.
+2025-02-20 19:44:38,356 - src - INFO - App logging ready.
+2025-02-20 19:46:15,886 - root - INFO - Logger initialized.
+2025-02-20 19:46:15,887 - src - INFO - App logging ready.
+2025-02-20 19:46:23,106 - root - INFO - Logger initialized.
+2025-02-20 19:46:23,106 - src - INFO - App logging ready.
+2025-02-20 19:46:24,402 - root - INFO - Logger initialized.
+2025-02-20 19:46:24,403 - src - INFO - App logging ready.
+2025-02-20 19:46:29,254 - root - INFO - Logger initialized.
+2025-02-20 19:46:29,254 - src - INFO - App logging ready.
+2025-02-20 19:46:38,787 - root - INFO - Logger initialized.
+2025-02-20 19:46:38,787 - src - INFO - App logging ready.
+2025-02-20 19:47:09,962 - root - INFO - Logger initialized.
+2025-02-20 19:47:09,963 - src - INFO - App logging ready.
+2025-02-20 19:47:11,165 - root - INFO - Logger initialized.
+2025-02-20 19:47:11,165 - src - INFO - App logging ready.
+2025-02-20 19:47:14,552 - root - INFO - Logger initialized.
+2025-02-20 19:47:14,553 - src - INFO - App logging ready.
+2025-02-20 19:47:17,046 - root - INFO - Logger initialized.
+2025-02-20 19:47:17,047 - src - INFO - App logging ready.
+2025-02-20 19:47:18,895 - root - INFO - Logger initialized.
+2025-02-20 19:47:18,896 - src - INFO - App logging ready.
+2025-02-20 19:47:19,973 - root - INFO - Logger initialized.
+2025-02-20 19:47:19,973 - src - INFO - App logging ready.
+2025-02-20 19:47:23,036 - root - INFO - Logger initialized.
+2025-02-20 19:47:23,036 - src - INFO - App logging ready.
+2025-02-20 19:47:26,148 - root - INFO - Logger initialized.
+2025-02-20 19:47:26,148 - src - INFO - App logging ready.
+2025-02-20 19:47:29,444 - root - INFO - Logger initialized.
+2025-02-20 19:47:29,445 - src - INFO - App logging ready.
+2025-02-20 19:47:31,833 - root - INFO - Logger initialized.
+2025-02-20 19:47:31,833 - src - INFO - App logging ready.
+2025-02-20 19:47:55,290 - root - INFO - Logger initialized.
+2025-02-20 19:47:55,290 - src - INFO - App logging ready.
+2025-02-20 19:48:15,865 - root - INFO - Logger initialized.
+2025-02-20 19:48:15,865 - src - INFO - App logging ready.
+2025-02-20 19:48:32,161 - root - INFO - Logger initialized.
+2025-02-20 19:48:32,161 - src - INFO - App logging ready.
+2025-02-20 19:48:33,700 - root - INFO - Logger initialized.
+2025-02-20 19:48:33,701 - src - INFO - App logging ready.
+2025-02-20 19:48:38,656 - root - INFO - Logger initialized.
+2025-02-20 19:48:38,656 - src - INFO - App logging ready.
+2025-02-20 19:48:58,840 - root - INFO - Logger initialized.
+2025-02-20 19:48:58,845 - src - INFO - App logging ready.
+2025-02-20 19:49:01,430 - root - INFO - Logger initialized.
+2025-02-20 19:49:01,431 - src - INFO - App logging ready.
+2025-02-20 19:49:04,054 - root - INFO - Logger initialized.
+2025-02-20 19:49:04,055 - src - INFO - App logging ready.
+2025-02-20 19:49:05,574 - root - INFO - Logger initialized.
+2025-02-20 19:49:05,575 - src - INFO - App logging ready.
+2025-02-20 19:49:11,026 - root - INFO - Logger initialized.
+2025-02-20 19:49:11,027 - src - INFO - App logging ready.
+2025-02-20 19:49:12,443 - root - INFO - Logger initialized.
+2025-02-20 19:49:12,444 - src - INFO - App logging ready.
+2025-02-20 19:49:14,153 - root - INFO - Logger initialized.
+2025-02-20 19:49:14,154 - src - INFO - App logging ready.
+2025-02-20 19:49:15,223 - root - INFO - Logger initialized.
+2025-02-20 19:49:15,224 - src - INFO - App logging ready.
+2025-02-20 19:49:22,631 - root - INFO - Logger initialized.
+2025-02-20 19:49:22,631 - src - INFO - App logging ready.
+2025-02-20 19:49:25,011 - root - INFO - Logger initialized.
+2025-02-20 19:49:25,012 - src - INFO - App logging ready.
+2025-02-20 19:49:26,760 - root - INFO - Logger initialized.
+2025-02-20 19:49:26,761 - src - INFO - App logging ready.
+2025-02-20 19:49:35,317 - root - INFO - Logger initialized.
+2025-02-20 19:49:35,317 - src - INFO - App logging ready.
+2025-02-20 19:49:36,771 - root - INFO - Logger initialized.
+2025-02-20 19:49:36,771 - src - INFO - App logging ready.
+2025-02-20 19:49:40,636 - root - INFO - Logger initialized.
+2025-02-20 19:49:40,636 - src - INFO - App logging ready.
+2025-02-20 19:49:45,636 - root - INFO - Logger initialized.
+2025-02-20 19:49:45,637 - src - INFO - App logging ready.
+2025-02-20 19:49:57,161 - root - INFO - Logger initialized.
+2025-02-20 19:49:57,178 - src - INFO - App logging ready.
+2025-02-20 19:49:59,040 - root - INFO - Logger initialized.
+2025-02-20 19:49:59,040 - src - INFO - App logging ready.
+2025-02-20 19:50:14,367 - root - INFO - Logger initialized.
+2025-02-20 19:50:14,368 - src - INFO - App logging ready.
+2025-02-20 19:50:19,564 - root - INFO - Logger initialized.
+2025-02-20 19:50:19,565 - src - INFO - App logging ready.
+2025-02-20 19:50:25,944 - root - INFO - Logger initialized.
+2025-02-20 19:50:25,945 - src - INFO - App logging ready.
+2025-02-20 19:50:54,559 - root - INFO - Logger initialized.
+2025-02-20 19:50:54,560 - src - INFO - App logging ready.
+2025-02-20 19:53:33,775 - root - INFO - Logger initialized.
+2025-02-20 19:53:33,776 - src - INFO - App logging ready.
+2025-02-20 19:53:41,166 - root - INFO - Logger initialized.
+2025-02-20 19:53:41,166 - src - INFO - App logging ready.
+2025-02-20 19:53:44,691 - root - INFO - Logger initialized.
+2025-02-20 19:53:44,692 - src - INFO - App logging ready.
+2025-02-20 19:53:46,796 - root - INFO - Logger initialized.
+2025-02-20 19:53:46,796 - src - INFO - App logging ready.
+2025-02-20 19:53:48,878 - root - INFO - Logger initialized.
+2025-02-20 19:53:48,879 - src - INFO - App logging ready.
+2025-02-20 19:53:51,529 - root - INFO - Logger initialized.
+2025-02-20 19:53:51,530 - src - INFO - App logging ready.
+2025-02-20 19:53:53,597 - root - INFO - Logger initialized.
+2025-02-20 19:53:53,597 - src - INFO - App logging ready.
+2025-02-20 19:53:55,099 - root - INFO - Logger initialized.
+2025-02-20 19:53:55,099 - src - INFO - App logging ready.
+2025-02-20 19:54:04,706 - root - INFO - Logger initialized.
+2025-02-20 19:54:04,706 - src - INFO - App logging ready.
+2025-02-20 19:54:06,678 - root - INFO - Logger initialized.
+2025-02-20 19:54:06,679 - src - INFO - App logging ready.
+2025-02-20 19:54:09,505 - root - INFO - Logger initialized.
+2025-02-20 19:54:09,505 - src - INFO - App logging ready.
+2025-02-20 19:54:12,594 - root - INFO - Logger initialized.
+2025-02-20 19:54:12,595 - src - INFO - App logging ready.
+2025-02-20 19:54:22,091 - root - INFO - Logger initialized.
+2025-02-20 19:54:22,092 - src - INFO - App logging ready.
+2025-02-20 19:54:23,136 - root - INFO - Logger initialized.
+2025-02-20 19:54:23,136 - src - INFO - App logging ready.
+2025-02-20 19:54:25,474 - root - INFO - Logger initialized.
+2025-02-20 19:54:25,474 - src - INFO - App logging ready.
+2025-02-20 19:54:29,819 - root - INFO - Logger initialized.
+2025-02-20 19:54:29,819 - src - INFO - App logging ready.
+2025-02-20 19:54:36,306 - root - INFO - Logger initialized.
+2025-02-20 19:54:36,306 - src - INFO - App logging ready.
+2025-02-20 19:54:37,954 - root - INFO - Logger initialized.
+2025-02-20 19:54:37,954 - src - INFO - App logging ready.
+2025-02-20 19:55:03,792 - root - INFO - Logger initialized.
+2025-02-20 19:55:03,792 - src - INFO - App logging ready.
+2025-02-20 19:55:52,626 - root - INFO - Logger initialized.
+2025-02-20 19:55:52,627 - src - INFO - App logging ready.
+2025-02-20 19:55:56,111 - root - INFO - Logger initialized.
+2025-02-20 19:55:56,112 - src - INFO - App logging ready.
+2025-02-20 19:55:57,619 - root - INFO - Logger initialized.
+2025-02-20 19:55:57,619 - src - INFO - App logging ready.
+2025-02-20 19:56:07,721 - root - INFO - Logger initialized.
+2025-02-20 19:56:07,722 - src - INFO - App logging ready.
+2025-02-20 19:56:28,639 - root - INFO - Logger initialized.
+2025-02-20 19:56:28,640 - src - INFO - App logging ready.
+2025-02-20 19:56:52,636 - root - INFO - Logger initialized.
+2025-02-20 19:56:52,637 - src - INFO - App logging ready.
+2025-02-20 20:00:26,900 - root - INFO - Logger initialized.
+2025-02-20 20:00:26,901 - src - INFO - App logging ready.
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Dog running
+2025-02-20 20:00:26,917 - src.section_classes - INFO - Dog running
+2025-02-20 20:00:26,918 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:00:26,918 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:00:26,927 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:00:26,928 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:02:37,601 - root - INFO - Logger initialized.
+2025-02-20 20:02:37,601 - src - INFO - App logging ready.
+2025-02-20 20:02:37,617 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:02:37,617 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:02:37,617 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:02:37,617 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:02:37,617 - src.section_classes - INFO - Dog running
+2025-02-20 20:02:37,618 - src.section_classes - INFO - Dog running
+2025-02-20 20:02:37,618 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:02:37,618 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:02:37,627 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:02:37,628 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:03:26,160 - root - INFO - Logger initialized.
+2025-02-20 20:03:26,161 - src - INFO - App logging ready.
+2025-02-20 20:03:26,171 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:03:26,171 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:03:26,171 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:03:26,171 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:03:26,172 - src.section_classes - INFO - Dog running
+2025-02-20 20:03:26,172 - src.section_classes - INFO - Dog running
+2025-02-20 20:03:26,172 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:03:26,172 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:03:26,181 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:03:26,182 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:41,868 - root - INFO - Logger initialized.
+2025-02-20 20:05:41,868 - src - INFO - App logging ready.
+2025-02-20 20:05:41,879 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:41,879 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Dog running
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Dog running
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:05:41,880 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:05:41,890 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:41,891 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:56,163 - root - INFO - Logger initialized.
+2025-02-20 20:05:56,163 - src - INFO - App logging ready.
+2025-02-20 20:05:56,173 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:56,173 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Dog running
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Dog running
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:05:56,174 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:05:56,183 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:05:56,184 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:09:28,134 - root - INFO - Logger initialized.
+2025-02-20 20:09:28,134 - src - INFO - App logging ready.
+2025-02-20 20:09:28,142 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:09:28,142 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:09:28,142 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:09:28,143 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:09:28,143 - src.section_classes - INFO - Dog running
+2025-02-20 20:09:28,143 - src.section_classes - INFO - Dog running
+2025-02-20 20:09:28,143 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:09:28,143 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:09:28,151 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:09:28,152 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:13:50,297 - root - INFO - Logger initialized.
+2025-02-20 20:13:50,298 - src - INFO - App logging ready.
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Making Animal sound
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Dog running
+2025-02-20 20:13:50,312 - src.section_classes - INFO - Dog running
+2025-02-20 20:13:50,313 - src.section_classes - INFO - Dog making sound
+2025-02-20 20:13:50,313 - src.section_classes - INFO - Making Dog sound
+2025-02-20 20:13:50,322 - src.section_classes - INFO - Initialized Animal
+2025-02-20 20:13:50,323 - src.section_classes - INFO - Initialized Animal
